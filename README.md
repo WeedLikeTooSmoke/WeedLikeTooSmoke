@@ -1,2 +1,2 @@
-<img src="[https://i.imgur.com/LXHdrHX.png](https://cdn.discordapp.com/attachments/1086594253750284329/1086599066504417280/ppwlts.png?ex=65a267bd&is=658ff2bd&hm=d64769abec98e218b148ee2ae8e7c3d0308148f680950a1134881a8708e228b9&)https://cdn.discordapp.com/attachments/1086594253750284329/1086599066504417280/ppwlts.png?ex=65a267bd&is=658ff2bd&hm=d64769abec98e218b148ee2ae8e7c3d0308148f680950a1134881a8708e228b9&" height="250px" />
+<img src="https://cdn.discordapp.com/attachments/1086594253750284329/1086599066504417280/ppwlts.png" height="250px" />
 # ddddec
